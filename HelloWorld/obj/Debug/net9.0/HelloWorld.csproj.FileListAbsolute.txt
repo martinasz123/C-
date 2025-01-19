@@ -1,0 +1,15 @@
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/martinsomogyi/Documents.local/PersonalProjects/C-/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
